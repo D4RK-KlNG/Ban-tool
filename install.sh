@@ -26,4 +26,4 @@ echo "[*] Installing requirements..."
 pip install -U -r requirements.txt
 
 echo "[*] Starting ban-tool..."
-python backup.py
+python ban.py
